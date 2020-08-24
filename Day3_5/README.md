@@ -4,4 +4,4 @@ For students of "Microprocessor for You in Thirty Hours" Workshop, offered by fo
 
 Refer to README at [stevehoover/RISC-V_MYTH_Workshop](https://github.com/stevehoover/RISC-V_MYTH_Workshop) for lab instructions.
 
-Add your codes in the `calculator_solutions.tlv` and risc-v_solutions.tlv` files and keep committing to your repository after every lab.
+Add your codes in the `calculator_solutions.tlv` and `risc-v_solutions.tlv` files and keep committing to your repository after every lab.
